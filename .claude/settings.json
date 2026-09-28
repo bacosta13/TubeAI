@@ -6,5 +6,8 @@
         "repo": "tubeai-app/tubeai-skills"
       }
     }
+  },
+  "enabledPlugins": {
+    "tubeai@tubeai-skills": true
   }
 }
